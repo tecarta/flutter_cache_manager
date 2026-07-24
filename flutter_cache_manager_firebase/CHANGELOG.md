@@ -1,3 +1,7 @@
+## [2.1.2] - 2026-07-21
+
+* Fixes `bucket` and `retryOptions` being ignored due to variable shadowing.
+
 ## [2.1.1] - 2024-08-13
 
 * Target js_interop for Wasm support

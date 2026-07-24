@@ -1,3 +1,11 @@
+## [3.4.2]
+
+* Fixes `removeFile` deleting from the wrong path
+* Raises minimum Dart SDK to 3.8.0 and update dependencies
+* Updates example Android project for Flutter 3.44 (Gradle 9.1 / AGP 9.0.1 / Kotlin 2.3.20, Java 17)
+* Migrates example Android app to built-in Kotlin
+* Migrates example iOS app from CocoaPods to Swift Package Manager
+
 ## [3.4.1] - 2024-08-13
 
 * Target js_interop for Wasm support
